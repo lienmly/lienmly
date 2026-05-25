@@ -1,4 +1,4 @@
-# Hey, I'm Lien 👋 
+![Header](./github-header-banner.png)
 
 Ex-Microsoft software engineer building AI automation for small businesses. Building in public.
 
