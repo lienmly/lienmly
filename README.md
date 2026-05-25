@@ -1,4 +1,4 @@
-# Hey, I'm Lien 👋
+# Hey, I'm Lien 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=24&pause=1000&color=3CBBB1&width=500&lines=Ex-Microsoft+Engineer;Building+AI+automation+for+SMBs;Solo+founder+%2B+new+mom;Building+in+public)](https://git.io/typing-svg)
 
 Ex-Microsoft software engineer building AI automation for small businesses. Building in public.
 
@@ -15,5 +15,3 @@ Ex-Microsoft software engineer building AI automation for small businesses. Buil
 ## Writing
 
 📝 I write about building AI tools for small businesses on [Medium](https://medium.com/@lienmly)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=24&pause=1000&color=3CBBB1&width=500&lines=Ex-Microsoft+Engineer;Building+AI+automation+for+SMBs;Solo+founder+%2B+new+mom;Building+in+public)](https://git.io/typing-svg)
