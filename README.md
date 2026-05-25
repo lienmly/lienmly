@@ -1,6 +1,6 @@
 # Hey, I'm Lien 👋
 
-Ex-Microsoft software engineer building AI automation for small businesses. Solo founder. New mom. Building in public.
+Ex-Microsoft software engineer building AI automation for small businesses. Building in public.
 
 ## What I'm working on
 
