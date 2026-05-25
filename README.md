@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Lien 👋
 
-<!--
-**lienmly/lienmly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ex-Microsoft software engineer building AI automation for small businesses. Solo founder. New mom. Building in public.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 **AI Automation Agency** — building demos across multiple industries to show small businesses what AI can actually do for them (not hype, real working tools)
+
+🎵 **[Utaitai](https://utaitai.com)** — a web app for learning Japanese through song lyrics (currently in beta)
+
+## Recent builds
+
+🦷 **[Dental AI Receptionist](https://github.com/lienmly/dental-ai-receptionist)** — an AI-powered chat receptionist that books real appointments on Google Calendar. Built with FastAPI, DeepSeek, and Google Calendar API. [Live demo](https://web-production-691b.up.railway.app/) · [Article](https://medium.com/@lienmly/i-built-an-ai-dental-receptionist-for-10-month-2eece6c94b43)
+
+## Writing
+
+📝 I write about building AI tools for small businesses on [Medium](https://medium.com/@lienmly)
